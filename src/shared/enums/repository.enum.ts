@@ -1,0 +1,5 @@
+export enum RepositoryEnum {
+    CURSO_REPOSITORY = "CURSO_REPOSITORY",
+    TEMATICA_REPOSITORY = "TEMATICA_REPOSITORY"
+}
+
